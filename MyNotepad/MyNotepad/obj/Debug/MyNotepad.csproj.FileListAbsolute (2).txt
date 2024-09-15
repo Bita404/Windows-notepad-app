@@ -1,0 +1,37 @@
+C:\Users\SGC\source\repos\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+C:\Users\SGC\source\repos\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+C:\Users\SGC\source\repos\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+C:\Users\SGC\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csprojAssemblyReference.cache
+C:\Users\SGC\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+C:\Users\SGC\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.cache
+C:\Users\SGC\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.CoreCompileInputs.cache
+C:\Users\SGC\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+C:\Users\SGC\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb
+C:\Users\SGC\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Form_Notepad.resources
+C:\Users\SGC\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.findform.resources
+C:\Users\SGC\Desktop\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+C:\Users\SGC\Desktop\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+C:\Users\SGC\Desktop\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+C:\Users\SGC\Desktop\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csprojAssemblyReference.cache
+C:\Users\SGC\Desktop\MyNotepad\MyNotepad\obj\Debug\MyNotepad.findform.resources
+C:\Users\SGC\Desktop\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Form_Notepad.resources
+C:\Users\SGC\Desktop\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+C:\Users\SGC\Desktop\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.cache
+C:\Users\SGC\Desktop\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.CoreCompileInputs.cache
+C:\Users\SGC\Desktop\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+C:\Users\SGC\Desktop\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb
+C:\Users\SGC\Desktop\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Form2.resources
+C:\Users\SGC\Desktop\uni\term 3\c#\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+C:\Users\SGC\Desktop\uni\term 3\c#\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+C:\Users\SGC\Desktop\uni\term 3\c#\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+C:\Users\SGC\Desktop\uni\term 3\c#\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csprojAssemblyReference.cache
+C:\Users\SGC\Desktop\uni\term 3\c#\MyNotepad\MyNotepad\obj\Debug\MyNotepad.findform.resources
+C:\Users\SGC\Desktop\uni\term 3\c#\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Form_Notepad.resources
+C:\Users\SGC\Desktop\uni\term 3\c#\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+C:\Users\SGC\Desktop\uni\term 3\c#\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.cache
+C:\Users\SGC\Desktop\uni\term 3\c#\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.CoreCompileInputs.cache
+C:\Users\SGC\Desktop\uni\term 3\c#\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+C:\Users\SGC\Desktop\uni\term 3\c#\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb
+C:\Users\SGC\Desktop\uni\term 3\c#\MyNotepad\MyNotepad\obj\Debug\MyNotepad.ReplaceForm.resources
+C:\Users\SGC\Desktop\uni\term 3\c#\MyNotepad\MyNotepad\obj\Debug\MyNotepad.FormDelete.resources
+C:\Users\SGC\Desktop\uni\term 3\c#\MyNotepad\MyNotepad\obj\Debug\MyNotepad.FormGoTo.resources
